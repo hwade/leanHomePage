@@ -12,6 +12,9 @@
     "LeanEngine",
     "express"
   ],
+	"scripts": {
+		"start": "node --harmony server.js"
+	},
   "license": "MIT",
   "dependencies": {
     "body-parser": "1.12.3",
