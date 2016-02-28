@@ -1,0 +1,6 @@
+{
+    "app_name": "leanHomePage",
+    "img_root" : "img",
+    "markdown_root":"blog" ,
+    "description":"HWade的博客"
+}
