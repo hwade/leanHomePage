@@ -6,12 +6,13 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var todos = require('./routes/todos');
 var cloud = require('./cloud');
-
+var ejs = require('ejs');
 var app = express();
 
 // 设置 view 引擎
 app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'ejs');
+app.engine('html',ejs.__express)
+app.set('view engine', 'html');
 app.use(express.static('public'));
 
 // 加载云代码方法
@@ -43,7 +44,7 @@ app.use(function(req, res, next) {
 });
 
 app.get('/', function(req, res) {
-  res.render('index', { currentTime: new Date() });
+  res.render('index.html');
 });
 
 // 可以将一类的路由单独保存在一个文件中
