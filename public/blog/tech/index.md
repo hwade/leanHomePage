@@ -19,6 +19,7 @@
 ### Markdown
 
 - [Markdown语法说明-简体中文版（转）](markdown/Markdown语法说明.md)
+- [基于markdown的博客快速搭建（转）](markdown/基于markdown博客搭建.md)
 
 ### Algorithm
 

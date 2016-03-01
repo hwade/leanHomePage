@@ -5,7 +5,7 @@ About
 	<div class="about-content-plane">
 		The blog is used to record my daily life and share the tech docs.
 		<ul>
-			<li><a href="http://hwade.github.io/resume/build">Resume</a></li>
+			<li><a href="/resume">Resume</a></li>
 		</ul>
 	</div>
 	<div class="about-img-plane">

@@ -5,7 +5,7 @@
 	<div class="about-content-plane">
 		此博客主要用来记录个人生活点滴和分享技术文档。
 		<ul>
-			<li><a href="http://hwade.github.io/resume/build">个人简历</a></li>
+			<li><a href="/resume">个人简历</a></li>
 		</ul>
 	</div>
 	<div class="about-img-plane">
