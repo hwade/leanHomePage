@@ -4,6 +4,10 @@
 
 <a  class="markdown-button" href="newBlog.md">New</a>
 
+### Data Minning
+
+- [数据挖掘算法汇总](datamining/数据挖掘算法汇总.md)
+
 ### Linux
 
 - [linux实用工具](linux/linux实用工具.md)

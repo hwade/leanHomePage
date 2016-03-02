@@ -1,6 +1,50 @@
+@keyframes fadeOutIn {
+	0% {
+		opacity: 1; /*初始状态 透明度为1*/
+	}
+	50% {
+		opacity: 0; /*中间状态 透明度为0*/
+	}
+	100% {
+		opacity: 1; /*结尾状态 透明度为1*/
+	}
+} 
 @-webkit-keyframes fadeOutIn {
 	0% {
 		opacity: 1; /*初始状态 透明度为1*/
+	}
+	50% {
+		opacity: 0; /*中间状态 透明度为0*/
+	}
+	100% {
+		opacity: 1; /*结尾状态 透明度为1*/
+	}
+} /* chrome and safari */
+@-moz-keyframes fadeOutIn {
+	0% {
+		opacity: 1; /*初始状态 透明度为1*/
+	}
+	50% {
+		opacity: 0; /*中间状态 透明度为0*/
+	}
+	100% {
+		opacity: 1; /*结尾状态 透明度为1*/
+	}
+} /* firefox */
+@-o-keyframes fadeOutIn {
+	0% {
+		opacity: 1; /*初始状态 透明度为1*/
+	}
+	50% {
+		opacity: 0; /*中间状态 透明度为0*/
+	}
+	100% {
+		opacity: 1; /*结尾状态 透明度为1*/
+	}
+} /* opera */
+@keyframes fadeIn {
+	0% {
+		opacity: 0; /*初始状态 透明度为0*/
 	}
 	50% {
 		opacity: 0; /*中间状态 透明度为0*/
@@ -19,7 +63,30 @@
 	100% {
 		opacity: 1; /*结尾状态 透明度为1*/
 	}
-}
+}/* chrome and safari */
+@-moz-keyframes fadeIn {
+	0% {
+		opacity: 0; /*初始状态 透明度为0*/
+	}
+	50% {
+		opacity: 0; /*中间状态 透明度为0*/
+	}
+	100% {
+		opacity: 1; /*结尾状态 透明度为1*/
+	}
+}/* firefox */
+@-o-keyframes fadeIn {
+	0% {
+		opacity: 0; /*初始状态 透明度为0*/
+	}
+	50% {
+		opacity: 0; /*中间状态 透明度为0*/
+	}
+	100% {
+		opacity: 1; /*结尾状态 透明度为1*/
+	}
+}/* opera */
+
 .main-page a {	
 	text-decoration:none;
 }
