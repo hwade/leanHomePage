@@ -5,6 +5,7 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var todos = require('./routes/todos');
+var resume = require('./routes/resume');
 var cloud = require('./cloud');
 var ejs = require('ejs');
 var app = express();
@@ -46,6 +47,11 @@ app.use(function(req, res, next) {
 app.get('/', function(req, res) {
   res.render('index.html');
 });
+app.get('/resume_bak', function(req, res) {
+  res.render('resume_bak.html');
+});
+
+app.use('/resume', resume);
 
 // 可以将一类的路由单独保存在一个文件中
 app.use('/todos', todos);

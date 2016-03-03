@@ -4,6 +4,13 @@
 
 <a  class="markdown-button" href="newBlog.md">New</a>
 
+<<<<<<< HEAD
+=======
+### Data Minning
+
+- [数据挖掘算法汇总](datamining/数据挖掘算法汇总.md)
+
+>>>>>>> master
 ### Linux
 
 - [linux实用工具](linux/linux实用工具.md)
@@ -18,7 +25,12 @@
 
 ### Markdown
 
+<<<<<<< HEAD
 - [Markdown语法说明-简体中文版（转）](markdown/Markdown语法说明.md)
+=======
+- [Markdown语法说明-简体中文版（转）](markdown/markdown-usage.md)
+- [基于markdown的博客快速搭建（转）](markdown/基于markdown博客搭建.md)
+>>>>>>> master
 
 ### Algorithm
 
