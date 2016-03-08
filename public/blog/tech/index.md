@@ -4,6 +4,10 @@
 
 <a  class="markdown-button" href="newBlog.md">New</a>
 
+### Network
+
+- [SOCKS5之免费高效翻墙策略](other/ss-proxy.md)
+
 ### Data Minning
 
 - [数据挖掘算法汇总](datamining/数据挖掘算法汇总.md)
