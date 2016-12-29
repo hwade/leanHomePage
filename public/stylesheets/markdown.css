@@ -1,0 +1,148 @@
+<<<<<<< HEAD
+=======
+@keyframes fadeOutIn {
+	0% {
+		opacity: 1; /*初始状态 透明度为1*/
+	}
+	50% {
+		opacity: 0; /*中间状态 透明度为0*/
+	}
+	100% {
+		opacity: 1; /*结尾状态 透明度为1*/
+	}
+} 
+>>>>>>> master
+@-webkit-keyframes fadeOutIn {
+	0% {
+		opacity: 1; /*初始状态 透明度为1*/
+	}
+	50% {
+		opacity: 0; /*中间状态 透明度为0*/
+	}
+	100% {
+		opacity: 1; /*结尾状态 透明度为1*/
+	}
+<<<<<<< HEAD
+=======
+} /* chrome and safari */
+@-moz-keyframes fadeOutIn {
+	0% {
+		opacity: 1; /*初始状态 透明度为1*/
+	}
+	50% {
+		opacity: 0; /*中间状态 透明度为0*/
+	}
+	100% {
+		opacity: 1; /*结尾状态 透明度为1*/
+	}
+} /* firefox */
+@-o-keyframes fadeOutIn {
+	0% {
+		opacity: 1; /*初始状态 透明度为1*/
+	}
+	50% {
+		opacity: 0; /*中间状态 透明度为0*/
+	}
+	100% {
+		opacity: 1; /*结尾状态 透明度为1*/
+	}
+} /* opera */
+@keyframes fadeIn {
+	0% {
+		opacity: 0; /*初始状态 透明度为0*/
+	}
+	50% {
+		opacity: 0; /*中间状态 透明度为0*/
+	}
+	100% {
+		opacity: 1; /*结尾状态 透明度为1*/
+	}
+>>>>>>> master
+}
+@-webkit-keyframes fadeIn {
+	0% {
+		opacity: 0; /*初始状态 透明度为0*/
+	}
+	50% {
+		opacity: 0; /*中间状态 透明度为0*/
+	}
+	100% {
+		opacity: 1; /*结尾状态 透明度为1*/
+	}
+<<<<<<< HEAD
+}
+=======
+}/* chrome and safari */
+@-moz-keyframes fadeIn {
+	0% {
+		opacity: 0; /*初始状态 透明度为0*/
+	}
+	50% {
+		opacity: 0; /*中间状态 透明度为0*/
+	}
+	100% {
+		opacity: 1; /*结尾状态 透明度为1*/
+	}
+}/* firefox */
+@-o-keyframes fadeIn {
+	0% {
+		opacity: 0; /*初始状态 透明度为0*/
+	}
+	50% {
+		opacity: 0; /*中间状态 透明度为0*/
+	}
+	100% {
+		opacity: 1; /*结尾状态 透明度为1*/
+	}
+}/* opera */
+
+>>>>>>> master
+.main-page a {	
+	text-decoration:none;
+}
+.main-page a:hover {	
+	text-decoration:none;
+}
+.main-page .markdown-button {
+	border-radius: 5%;
+	text-align: center;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-left: 12px;
+	padding-right: 12px;
+	color: #D0D0D0;
+	border:1px solid #D0D0D0;
+	transition: transform 1s;
+}
+.main-page .markdown-button:hover {
+	border:1px solid #909090;
+	color: #909090;
+}
+.main-page .blog-title {
+	height: 40px;
+	width: 90%;
+	padding: 1%;
+	border: 1px solid #D0D0D0;
+}
+.main-page .blog-editor {
+	height: 70%;
+	width: 90%;
+	padding: 1%;
+	border: 1px solid #D0D0D0;
+}
+/* about page*/
+.main-page .about-plane {
+	height: 50%;
+}
+.main-page .about-content-plane {
+	float: left;
+	width: 45%;
+}
+.main-page .about-img-plane {
+	float: right;
+	width: 50%;
+	-webkit-animation-name: fadeIn;
+	-webkit-animation-duration: 1s; /*动画持续时间*/
+	-webkit-animation-iteration-count: 1; /*动画次数*/
+	-webkit-animation-delay: 0s; /*延迟时间*/
+}

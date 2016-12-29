@@ -1,0 +1,199 @@
+{
+	"avatar": "avator.jpg",
+	"background_image": "https://unsplash.it/720/200/?random&gravity=center",
+	"basicinfo": {
+		"name": "黄 伟",
+		"description": "stay hungry, stay foolish",
+		"school": "华南理工大学",
+		"profession": "软件学院",
+		"sex": "男",
+		"education" : "硕士研究生",
+		"workage": "2018届毕业",
+		"residence": "居住地 | 广州市天河区",
+		"phone": "13724007893",
+		"email": "hwade_good@163.com"
+	},
+	"social":[
+		{
+			"type": "github",
+			"link": "https://github.com/hwade",
+			"icon": ""
+		},
+		{
+			"type": "weibo",
+			"link": "http://weibo.com/2310658484",
+			"icon": ""
+		},
+		{
+			"type": "home",
+			"link": "http://h_wade.leanapp.cn",
+			"icon": ""
+		}
+	],
+	"SelfAbilities": [
+		{
+			"name": "政治面貌",
+			"description": "中共党员"
+		},
+		{
+			"name": "性格",
+			"description": "性格开朗，能与人友好相处，遇事积极乐观，爱学习新知识，也热爱各种球类运动，有较强的自我管理和自我学习的能力，在遇到任何困难都不轻易放弃。"
+		},
+		{
+			"name": "语言能力",
+			"description": "操熟练的普通话、广东话、潮汕话、广西话；英语六级。"
+		},
+		{
+			"name": "专业技能",
+			"description": "javascript、python、C++、C#；网络爬虫、数据挖掘、深度学习；Office软件"
+		}
+	],
+	"Awards": [
+		{
+			"name": "荣获武汉科技大学优秀学生干部",
+			"time": "2011-2012学年"
+		},
+		{
+			"name": "荣获武汉科技大学优秀共青团员",
+			"time": "2011-2012学年"
+		},
+		{
+			"name": "武汉科技大学学生排球赛中获男子组第六名",
+			"time": "2011年"
+		},
+		{
+			"name": "荣获武汉科技大学优秀学生",
+			"time": "2012-2013学年"
+		},
+		{
+			"name": "波司登杯2013微软office应用创意大赛中荣获二等奖",
+			"time": "2013年"
+		},
+		{
+			"name": "荣获武汉科技大学优秀学生",
+			"time": "2013-2014学年"
+		},
+		{
+			"name": "武汉科技大学学生篮球赛中获男子组第二名",
+			"time": "2014学年"
+		},
+		{
+			"name": "第一届全国高校互联网应用创新大赛（含研究生和博士生）获得优胜奖",
+			"time": "2014年"
+		},
+		{
+			"name": "武汉科技大学大学生创新项目大赛荣获一等奖",
+			"time": "2014年6月"
+		},
+		{
+			"name": "荣获武汉科技大学优秀毕业生",
+			"time": "2014-2015学年"
+		},
+		{
+			"name": "学士论文《基于SDN的无线局域网DDoS攻击防护机制》荣获湖北省2015年优秀学士学位论文",
+			"time": "2015年"
+		},
+		{
+			"name": "阿里天池音乐流行趋势预测大赛TOP 5%",
+			"time": "2016年4-7月"
+		},
+		{
+			"name": "DataCastle微博流行度预测大赛TOP 2%",
+			"time": "2016年8-12月"
+		}
+	],
+	"InternExperiences": [
+		{
+			"name": "武汉华清远见有限公司",
+			"name_link": "",
+			"title": "前端开发工程师",
+			"icon": "",
+			"description": "使用Asp.net负责为公司网站的开发",
+			"time": "2015.03 - 2015.04",
+			"location": "湖北 武汉"
+		},
+		{
+			"name": "广州兆商科技公司（创业公司）",
+			"name_link": "",
+			"title": "前端兼后台开发工程师",
+			"icon": "",
+			"description": "使用leancloud提供的云存储服务和环信的聊天模块开发一款商用软件的网页版管理工具，同时负责业务逻辑和数据库的设计，并且使用nodejs部署和实现后台功能。",
+			"time": "2015.07 - 2015.09",
+			"location": "广东 广州"
+		}
+	],
+	"ProjectExperience": [
+		{
+			"name": "基于nimbus的大规模科学计算",
+			"name_link": "",
+			"title": "成员",
+			"icon": "",
+			"description": "主要是针对高维矩阵的分解和并行计算",
+			"time": "2013.10 - 2014.04",
+			"location": "湖北 武汉"
+		},
+		{
+			"name": "发表学术论文于中文核心期刊《计算机工程与应用》",
+			"name_link": "http://ac-qjxlvvnf.clouddn.com/c1178418de790de74293.pdf",
+			"title": "《基于SDS架构的多级DDoS防护机制》, 第一作者",
+			"icon": "",
+			"description": "文章针对分布式拒绝服务(DDoS)的特点，提出了一种新的多级DDoS防护机制SDS for DDoS，主要是根据当前网络中的流量和类别进行划分系统等级来实现整体的流量控制，并给出实验验证，详情请点击链接",
+			"time": "2014.07 - 2014.10",
+			"location": "湖北 武汉"
+		},
+		{
+			"name": "发表学术论文于外文会议《Advances in computer science and technology》",
+			"name_link": "http://ac-qjxlvvnf.clouddn.com/2e48ab60effbeeff.pdf",
+			"title": "《Elastic protection mechanism for DDoS based on SDN architecture》, 第一作者",
+			"icon": "",
+			"description": "文章针对分布式拒绝服务(DDoS)的特点，提出了另外一种新的弹性DDoS防护机制，在数据流进入SDN网络时会由接入层OF交换机进行分类标识，根据数据流所带的标识在流经网络中其他交换机时进行弹性处理，这种方式比划分安全系统等级要更加稳定，并给出实验验证，详情请点击链接",
+			"time": "2014.09 - 2014.12",
+			"location": "湖北 武汉"
+		},
+		{
+			"name": "基于深度学习的医学知识发现",
+			"name_link": "",
+			"title": "成员",
+			"icon": "",
+			"description": "主要针对当前医疗文献检索中的不足，包括检索内容歧义多义和检索结果不准确，提出采用深度学习的方法，根据细分的特征值构建多层模型，进而实现关键词对目标文献检索的高准确率同时不会过拟合。",
+			"time": "2015.10 - 2016.1",
+			"location": "广东 广州"
+		},
+		{
+			"name": "微信分享社区",
+			"name_link": "https://github.com/hwade/wechat_public",
+			"title": "作者",
+			"icon": "",
+			"description": "主要是开发一个公众号作为微信用户对外面世界（不认识的人）进行图片分享，每日限制分享次数，通过微信的客服接口向关注的用户推送一定数量的图文消息，图片thumb_url为用户分享的图片，点击图文可以有详细信息界面和支持评论（未实现），在用测试号测试中",
+			"time": "2016.1 - 至今",
+			"location": "广东 广州"
+		},
+		{
+			"name": "leanHomePage",
+			"name_link": "http://h_wade.leanapp.cn",
+			"title": "javaScript + leancloud云存储, forker",
+			"icon": "",
+			"description": "前端+后台逻辑处理，基于markdown的博客",
+			"time": "2016.2 - 至今",
+			"location": "广东 广州"
+		},
+		{
+			"name": "网页版五子棋游戏",
+			"name_link": "http://webgame.leanapp.cn/",
+			"title": "挑战阿法狗",
+			"icon": "",
+			"description": "javascript",
+			"time": "2016.3",
+			"location": "广东 广州"
+		},
+		{
+			"name": "更多",
+			"name_link": "https://github.com/hwade",
+			"title": "javascript/python, forker",
+			"icon": "",
+			"description": "其他一些小程序，包括微信网页机器人、网页爬虫等",
+			"time": "2016.1 - 至今",
+			"location": "广东 广州"
+		}
+	]
+}
